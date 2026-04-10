@@ -1,0 +1,2 @@
+# PC-Manager
+PCマネージャー
